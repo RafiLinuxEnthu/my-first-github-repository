@@ -1,0 +1,1 @@
+This is validate the git fetch command
